@@ -41,7 +41,7 @@ The CNN model is built with the following architecture:
 ---
 
 ## Results
-- Achieved **accuracy**: *xx%* on the validation set.
+- Achieved **accuracy**: *80%* on the validation set.
 - Tested the model on unseen images using OpenCV with promising results.
 
 
