@@ -39,11 +39,6 @@ After training, the model's accuracy and loss are plotted over epochs for both t
 - **Training Accuracy**: The model achieved a training accuracy of **0.97** on the training data.
 - **Validation Accuracy**: The model achieved a validation accuracy of **0.99** on the validation data.
 
-### Model Accuracy Plot
-![Model Accuracy](accuracy_plot.png)
-
-### Model Loss Plot
-![Model Loss](loss_plot.png)
 
 ## Conclusion
 
