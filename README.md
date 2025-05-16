@@ -41,7 +41,7 @@ product_recommendation_app/
 ├── embedding_utils.py    # Embedding logic
 ├── llm_services.py       # LLM queries & generation
 ├── retrieval.py          # Semantic search logic
-├── scraped_products.csv  # Your laptop dataset
+├── LaptrackPhase2.csv  # Your laptop dataset
 ```
 
 ---
