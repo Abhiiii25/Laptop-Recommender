@@ -136,7 +136,9 @@ This will open the app in your browser 🎉
 
 **📸 Screenshots / Demo**
 
-![image alt](https://github.com/Abhiiii25/Laptop-Recommender/blob/d090cfc3f6be80dec9a390bac566e7e2281a0030/Screenshot%202025-05-17%20014448.png)
+![image alt](https://github.com/Abhiiii25/Laptop-Recommender/blob/87655cf170537146352d8d03a7f5bbd52dbae41e/Screenshot%202025-05-17%20092440.png)
+
+![image alt](https://github.com/Abhiiii25/Laptop-Recommender/blob/87655cf170537146352d8d03a7f5bbd52dbae41e/Screenshot%202025-05-17%20092507.png)
 
 
 
