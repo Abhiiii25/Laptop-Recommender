@@ -50,7 +50,7 @@ product_recommendation_app/
 
 - **Python 3.8+**
 - **Streamlit** – Web app UI
-- **lama3-8b-8192** – Language model for refinement and chat
+- **llama3-8b-8192** – Language model for refinement and chat
 - **all-MiniLM-L6-v2** – Embedding model
 - **Pandas** – Data handling
 
