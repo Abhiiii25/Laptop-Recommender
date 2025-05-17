@@ -50,9 +50,8 @@ product_recommendation_app/
 
 - **Python 3.8+**
 - **Streamlit** – Web app UI
-- **Ollama** – Local LLM runner
-- **Llama 3** – Language model for refinement and chat
-- **nomic-embed-text** – Embedding model
+- **lama3-8b-8192** – Language model for refinement and chat
+- **all-MiniLM-L6-v2** – Embedding model
 - **Pandas** – Data handling
 
 ---
@@ -61,14 +60,13 @@ product_recommendation_app/
 
 ### 🔧 Prerequisites
 - [Python 3.8+](https://www.python.org/downloads/)
-- [Ollama installed and running](https://ollama.com)
 
 ### 📥 Installation Steps
 
 1. **Clone or Prepare the Project**
 
 ```bash
-cd path/to/product_recommendation_app
+cd path/to/Laptop_Recommender
 ```
 
 2. **Create and Activate Virtual Environment (Recommended)**
@@ -93,7 +91,7 @@ ollama pull llama3  # Or: ollama pull llama3:8b-instruct
 
 5. **Add Your Product Data**
 
-Place `scraped_products.csv` (containing **only laptop** data) in the root folder. Make sure columns match what’s defined in `config.py`.
+Place `LaptrackPhase2.csv` (containing **only laptop** data) in the root folder. Make sure columns match what’s defined in `config.py`.
 
 ---
 
@@ -103,7 +101,7 @@ Place `scraped_products.csv` (containing **only laptop** data) in the root folde
 2. In terminal:
 
 ```bash
-cd product_recommendation_app
+cd Laptop_Recommender
 source venv/bin/activate
 streamlit run app.py
 ```
@@ -134,6 +132,9 @@ This will open the app in your browser 🎉
 
 ---
 
+
+
+**📸 Screenshots / Demo**
 
 
 
