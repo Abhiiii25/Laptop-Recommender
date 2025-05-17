@@ -12,10 +12,10 @@ Built with **Streamlit**, **Ollama**, and **LLMs (Llama 3)**, this app refines y
   Ask things like: *"budget laptop for college coding under $800"*.
 
 - 🧠 **Smart Query Understanding**  
-  Your queries are refined using a local LLM (Llama 3) for better accuracy.
+  Your queries are refined using a LLM (llama3-8b-8192) for better accuracy.
 
 - 🔗 **Semantic Search with RAG**  
-  Uses vector embeddings from `nomic-embed-text` to match your intent with relevant products.
+  Uses vector embeddings from `all-MiniLM-L6-v2` to match your intent with relevant products.
 
 - 💬 **AI Chat Assistant**  
   Ask follow-up questions or get more details from the AI assistant, who knows your context.
@@ -23,8 +23,6 @@ Built with **Streamlit**, **Ollama**, and **LLMs (Llama 3)**, this app refines y
 - 📝 **Better Product Descriptions**  
   Generate clearer, more engaging laptop descriptions with Llama 3.
 
-- 🔐 **Runs Locally & Privately**  
-  No cloud needed! Powered by Ollama for offline use.
 
 - ⚙️ **Debug Mode**  
   See how your query is processed behind the scenes.
@@ -34,7 +32,7 @@ Built with **Streamlit**, **Ollama**, and **LLMs (Llama 3)**, this app refines y
 ## 🗂️ Project Structure
 
 ```
-product_recommendation_app/
+Laptop_Recommender/
 ├── app.py                # Streamlit UI
 ├── config.py             # App configuration
 ├── data_loader.py        # Loads laptop data
